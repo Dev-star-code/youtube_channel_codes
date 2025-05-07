@@ -5,9 +5,9 @@ It's a part of the [CodePanda YouTube channel](https://www.youtube.com/@CodePand
 
 ## 🧰 Technologies Used
 
-- **HTML5**
+- **HTML**
   
-- **CSS3**
+- **CSS**
   
 - **Keyframe Animations**
   
